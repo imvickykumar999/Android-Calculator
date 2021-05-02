@@ -1,3 +1,3 @@
 # Output...
 
-![ss](screenshot.jpg)
+![ss](ss.jpg)
